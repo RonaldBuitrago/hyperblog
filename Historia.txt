@@ -2,4 +2,6 @@ un archivo de prueba
 
 Ronald es muy pendejo y nacio en zampaleste 
 
+master 2
+
 mañana es otro dia 
