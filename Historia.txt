@@ -1,5 +1,5 @@
-un archivo de prueba
-
+un archivo de prueba para agregar usar el comando git add
+ 
 en este archivo vamos a realizar el primer aporte  
 
 master 2
